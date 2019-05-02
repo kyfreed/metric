@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <h1>The Metric System</h1>
+        <p>Have you ever asked why there are 5280 feet in a mile? Well, there is an answer, but it is still inconvenient to do this. I believe that the US should officially switch to the metric system.</p>
     </body>
 </html>
